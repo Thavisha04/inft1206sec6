@@ -14,10 +14,13 @@ const btn = document.querySelector('button');
 const overlay = document.querySelector('.overlay');
 
 /* Declaring the array of image filenames */
+const imageFileNames = ['pic1.jpg', 'pic2.jpg', 'pic3.jpg', 'pic4.jpg', 'pic5.jpg'];
 
 /* Declaring the alternative text for each image file */
+const alternativeTexts = ["Closeup of a human eye", "Rock with waves", "Purple and white flower bunch", "Egyptian cave painting", "Brown, black and white butterfly"];
 
 /* Looping through images */
+
 
 const newImage = document.createElement('img');
 newImage.setAttribute('src', xxx);
