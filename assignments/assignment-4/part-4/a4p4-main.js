@@ -5,7 +5,7 @@
   Date created:   August 2nd, 2024
   Last Modified:  August 2nd,2024
   Section:        6
-  Description:    ???
+  Description:    This assignment includes adding a user controlled evil circle to the bouncy ball assignment.
 */
 
 
