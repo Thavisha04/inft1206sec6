@@ -5,7 +5,7 @@
   Date created:   August 2nd, 2024
   Last Modified:  August 2nd,2024
   Section:        6
-  Description:    ???
+  Description:    This assignment includes creating  little balls will bounce around on the screen, and change color when they touch each other. 
 */
 
 // setup canvas
