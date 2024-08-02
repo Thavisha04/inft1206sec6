@@ -3,7 +3,7 @@
   Student #:      100942614
   File:           main.js
   Date created:   July 10th, 2024
-  Last Modified:  ???
+  Last Modified:  August 2nd, 2024
   Section:        6
   Description:    This assignment includes the code for creating an app that generates random silly stories.
 */
