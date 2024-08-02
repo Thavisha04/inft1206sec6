@@ -1,3 +1,13 @@
+/*    
+  Name:           Thavisha Thanippuli Appuhamilage
+  Student #:      100942614
+  File:           a4p3-main.js
+  Date created:   August 2nd, 2024
+  Last Modified:  August 2nd,2024
+  Section:        6
+  Description:    ???
+*/
+
 // setup canvas
 
 const canvas = document.querySelector("canvas");
