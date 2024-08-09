@@ -1,3 +1,14 @@
+/*    
+  Name:           Thavisha Thanippuli Appuhamilage
+  Student #:      100942614
+  File:           a5-main.js
+  Date created:   9th August, 2024
+  Last Modified:  9th August, 2024
+  Section:        6
+  Description:    This assignment includes a fictional nature site displaying a "factual" article about bears
+                  after fixing the accessiblity issues that were available originally.
+*/
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
